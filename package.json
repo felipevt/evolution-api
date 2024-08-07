@@ -2,7 +2,7 @@
   "name": "evolution-api",
   "version": "1.8.2",
   "description": "Rest api for communication with WhatsApp",
-  "main": "./dist/src/main.js",
+  "main": "app.js",
   "scripts": {
     "build": "tsc",
     "start:prod": "ts-node --files --transpile-only ./src/main.ts",
